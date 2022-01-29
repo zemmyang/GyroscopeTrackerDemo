@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gyroscope Tracker Demo</string>
+    <string name="start_button_text">Start Recording</string>
+    <string name="save_button_text">Save \nto CSV</string>
+    <string name="stop_button_text">Stop \n and Display</string>
+    <string name="clear_button_text">Clear \n Recording</string>
+    <string name="gyroscope_current_values">0.0, 0.0, 0.0</string>
+</resources>
