@@ -19,3 +19,5 @@ If I were to expand this, I'd like to:
 * Record using preset times
 
 Would be cool create a train wobbliness meter out of this, include the GPS and Accelerometer data to measure if the top half of a train is indeed wobblier than the bottom half of the train or if I'm just imagining that the train is wobblier up top...
+
+![gif](https://user-images.githubusercontent.com/1752285/151676495-1965a8e6-784e-4542-a380-97737facc593.gif)
